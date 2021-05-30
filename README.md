@@ -3,7 +3,7 @@
 </h1>
 
 ## Contact
-- [aalbert.tech](https://aalbert.tech) or [albrt.hu](https://albrt.hu)
+- [albrt.hu](https://albrt.hu)
 - [albertadam_](https://instagram.com/albertadam_) on Instagram
 - [albert#8838](./) on Discord
 
