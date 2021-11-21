@@ -1,10 +1,14 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/skidoodle/skidoodle/63a1ab664ae02907e319aa65805cad36f2e5cca6/gradient.svg" alt="albert" />
-</h1>
+![welcome-bg-1](https://user-images.githubusercontent.com/53189968/142773416-d1f49b96-3e5d-4061-a5b3-28ed235262b0.png)
 
-## Contact
-- [albrt.hu](https://albrt.hu)
-- [albertadam_](https://instagram.com/albertadam_) on Instagram
-- [albert#8838](./) on Discord
+<h1 align="center">albert</h1>
 
-![](https://komarev.com/ghpvc/?username=skidoodle&color=blue)
+<p align="center">System Administrator</p>
+
+
+<a href="https://github.com/Tecnio">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=skidoodle&color=blue" alt="Profile Views">
+  </p>
+</a>
+
+![footer-bg](https://user-images.githubusercontent.com/53189968/142773429-47a4588d-0afd-4e22-aacb-179814f8c99f.png)
