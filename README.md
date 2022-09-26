@@ -5,7 +5,7 @@
 <p align="center">System Administrator</p>
 
 
-<a href="https://github.com/Tecnio">
+<a href="https://github.com/skidoodle">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=skidoodle&color=blue" alt="Profile Views">
   </p>
