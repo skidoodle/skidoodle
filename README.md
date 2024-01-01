@@ -2,7 +2,7 @@
 
 <h1 align="center">albert</h1>
 
-<p align="center">DevOps engineer</p>
+<p align="center">DevOps Engineer</p>
 
 
 <a href="https://github.com/skidoodle">
